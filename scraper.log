@@ -1,0 +1,8 @@
+2024-12-12 22:51:12,491 - INFO - Successfully fetched the page.
+2024-12-12 22:51:12,639 - INFO - Extracted price: 169.0
+2024-12-12 22:51:12,639 - INFO - Sleeping for 2.82 seconds to avoid detection.
+2024-12-12 22:53:26,418 - INFO - Successfully fetched the page.
+2024-12-12 22:53:26,602 - INFO - Extracted product name: Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 3 Quart
+2024-12-12 22:53:26,602 - INFO - Extracted price: 169.0
+2024-12-12 22:53:26,604 - INFO - Product details saved to file.
+2024-12-12 22:53:26,604 - INFO - Sleeping for 4.83 seconds to avoid detection.
